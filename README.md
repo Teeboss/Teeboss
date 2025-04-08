@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @Teeboss
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning ReactNative
-- 💞️ I’m looking to collaborate on your project
-- 📫 How to reach me 09063545405
+# 👋 Hi, I’m Pelumi (@Teeboss)
 
-<!---
-Teeboss/Teeboss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Software Developer**
+
+🔧 I specialize in:
+- **Frontend:** React.js, React Native, HTML, CSS, JavaScript
+- **Backend:** Node.js, Laravel, PHP
+- **Databases:** MongoDB, MySQL, SQL
+
+💻 **Recent Projects:**
+- **[Therapact](#):** A platform for connecting clients with therapists
+- **[Jobslounge](#):** A gig platform for freelancers
+
+👀 I'm always interested in collaborating on innovative projects that make a difference.
+
+🔗 **Reach me**:  
+Email: [tobihabib25@gmail.com](mailto:tobihabib25@gmail.com)  
+Phone: 09063545405  
+LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/pelumi-habib-99964a16a/)](#)
+
+---
+
+## 🔧 Technologies & Tools:
+- **Languages:** JavaScript (Node.js, React.js), PHP, TypeScript
+- **Tools:** Git, CI/CD, AWS
+- **Frameworks:** Laravel, Express, Next.js
+
+---
+
+## 📈 GitHub Stats:
+
+[![Teeboss' GitHub stats](https://github-readme-stats.vercel.app/api?username=Teeboss&show_icons=true&count_private=true&hide_title=true&hide=prs)](https://github.com/Teeboss)
+
+
+---
+
+Let's code something amazing together!
