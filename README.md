@@ -8,7 +8,8 @@
 - **Databases:** MongoDB, MySQL, SQL
 
 💻 **Recent Projects:**
-- **[Therapact](#):** A platform for connecting clients with therapists
+- **[Vivacrest](#):** A platform for connecting clients with therapists
+- **[Liizor](#):** A crypto Platform
 - **[Jobslounge](#):** A gig platform for freelancers
 
 👀 I'm always interested in collaborating on innovative projects that make a difference.
@@ -16,13 +17,13 @@
 🔗 **Reach me**:  
 Email: [tobihabib25@gmail.com](mailto:tobihabib25@gmail.com)  
 Phone: 09063545405  
-LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/pelumi-habib-99964a16a/)](#)
+LinkedIn: [[LinkedIn](https://www.linkedin.com/in/pelumi-habib-99964a16a/)](#)
 
 ---
 
 ## 🔧 Technologies & Tools:
 - **Languages:** JavaScript (Node.js, React.js), PHP, TypeScript
-- **Tools:** Git, CI/CD, AWS
+- **Tools:** Git, CI/CD, CircleCI, Github Actions
 - **Frameworks:** Laravel, Express, Next.js
 
 ---
