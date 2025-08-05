@@ -3,7 +3,7 @@
 🚀 **Software Developer**
 
 🔧 I specialize in:
-- **Frontend:** React.js, React Native, HTML, CSS, JavaScript
+- **Frontend:** React.js, React Native, HTML, CSS,Bootstrap, TailwindCSS and JavaScript
 - **Backend:** Node.js, Laravel, PHP
 - **Databases:** MongoDB, MySQL, SQL
 
